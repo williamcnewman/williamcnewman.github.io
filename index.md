@@ -9,4 +9,4 @@ I am also interested more braodly in number theory and algebra.
 ## Mentoring
 I help run [OSU Cycle](https://math.osu.edu/undergrad/osu-cycle), which is a mentoring program designed to pair mathematics graduate students with undergraduate students to do research. 
 ## CV
-Here is my [CV](Will_CV.pdf).
+Here is my [CV](CV.pdf).
