@@ -1,4 +1,4 @@
-# William C. Newman1
+# William C. Newman
 I am a fourth year PhD student in mathematics at The Ohio State University. My advisor is Hsian-Hua Tseng. 
 ## Research Interests
 Most of my interests lie in algebraic geometry. My favorite sub-area within algebraic geometry is enumerative geometry, which then leads me to studying intersection theory, moduli spaces, and algebraic stacks. Currently, my thesis projects involve studying the Chow rings of some moduli spaces. 
