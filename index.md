@@ -5,7 +5,7 @@ Most of my interests lie in algebraic geometry. My favorite sub-area within alge
 
 Additionally, I am interested in arithmetic geometry. I am finishing up some papers stemming from work I did at an REU when I was an undergrad. This work involves studying arithmetic properties of self-maps of projective space. 
 
-I am also interested more braodly in number theory and algebra. 
+I am also interested in combinatorics and number theory.  
 ## Mentoring
 I help run [OSU Cycle](https://math.osu.edu/undergrad/osu-cycle), which is a mentoring program designed to pair mathematics graduate students with undergraduate students to do research. 
 ## CV
