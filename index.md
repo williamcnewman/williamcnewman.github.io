@@ -11,4 +11,3 @@ I help run [OSU Cycle](https://math.osu.edu/undergrad/osu-cycle), which is a men
 ## CV
 Here is my [CV](CV.pdf).
 
-Pap: [paper](paper.md).
