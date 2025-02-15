@@ -10,3 +10,5 @@ I am also interested in combinatorics and number theory.
 I help run [OSU Cycle](https://math.osu.edu/undergrad/osu-cycle), which is a mentoring program designed to pair mathematics graduate students with undergraduate students to do research. 
 ## CV
 Here is my [CV](CV.pdf).
+
+Pap: [paper](paper.md).
