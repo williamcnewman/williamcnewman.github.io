@@ -3,7 +3,7 @@ I am a fifth year PhD student in mathematics at The Ohio State University. My ad
 ## Research Interests
 Most of my interests lie in algebraic geometry. My favorite sub-area within algebraic geometry is enumerative geometry, which then leads me to studying intersection theory, moduli spaces, and algebraic stacks. I am also interested in combinatorics and number theory.  
 ## Preprints
-[Tame nodal stacky curves](https://arxiv.org/abs/2509.20629)
+[Tame nodal stacky curves](https://arxiv.org/abs/2509.20629) with Martin Bishop
 
 [The first higher Chow groups of \mathcal{M}_{1,n} for n\leq 4](https://arxiv.org/abs/2508.20264) 
 ## Minicourse
