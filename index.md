@@ -13,21 +13,37 @@ I helped create and currently sit on the board of [OSU Cycle](https://math.osu.e
 Here is my [CV](CV.pdf).
 ## Conferences
 Nov 2025-AlGeCom @ OSU
+
 Oct 2025-Enumerative  Geometry, Intersection Theory & Beyond @ OSU
+
 Sep 2025-Combinatorics and Geometry of Moduli of Curves @ UIUC
+
 Jul 2025-Summer Research Institute in Algebraic Geometry @ CSU
+
 Jun 2025-Arithmetic Statistics @ OSU
+
 Jun 2025-Workshop of the Kentucky-Ohio Algebra Alliance @ OSU
+
 May 2025-Arithmetic, K-Theory, and Algebraic Cycles @ OSU
+
 Mar 2025-GAGS @ UGA
+
 Nov 2024-AlGeCom @ Umich
+
 Oct 2024-Tevelev Degrees @ UIUC
+
 Aug 2024-Richmond Geometry Meeting @ VCU
+
 May 2024-Workshop of the Kentucky-Ohio Algebra Alliance @ UKentucky
+
 May 2024-Local Systems in Algebraic Geometry @ OSU
+
 Jul 2023-AGNES Summer School-Intersection Theory on Moduli Spaces @ Brown
+
 Jun 2023-Arithmetic, Birational Geometry,and Moduli Spaces @ Brown
+
 May 2023-Workshop of the Kentucky-Ohio Algebra Alliance @ OSU
+
 Oct 2022-AlGeCom @ UIUC
 Jul 2022-Derived Categories, Moduli, and Hyperkähler Varieties @ Umich
 
