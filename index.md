@@ -6,12 +6,12 @@ Most of my interests lie in algebraic geometry. My favorite sub-area within alge
 [Tame nodal stacky curves](https://arxiv.org/abs/2509.20629) with Martin Bishop
 
 [The first higher Chow groups of \mathcal{M}_{1,n} for n\leq 4](https://arxiv.org/abs/2508.20264) 
-## Minicourse
-In May 2025, I ran a minicourse on Voevodsky's mixed motives at OSU titled "Motives in May" with [Jake Huryn](https://jakehuryn.github.io/). The website can be found [here](https://jakehuryn.github.io/motives-in-may/).
 ## Mentoring
 I helped create and currently sit on the board of [OSU Cycle](https://math.osu.edu/undergrad/osu-cycle), which is a mentoring program designed to pair mathematics graduate students with undergraduate students to do research. 
 ## CV
 Here is my [CV](CV.pdf).
+## Minicourse
+In May 2025, I ran a minicourse on Voevodsky's mixed motives at OSU titled "Motives in May" with [Jake Huryn](https://jakehuryn.github.io/). The website can be found [here](https://jakehuryn.github.io/motives-in-may/).
 ## Conferences
 Nov 2025-AlGeCom @ OSU
 
