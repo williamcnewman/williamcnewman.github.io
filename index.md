@@ -46,5 +46,6 @@ Jun 2023-Arithmetic, Birational Geometry,and Moduli Spaces @ Brown
 May 2023-Workshop of the Kentucky-Ohio Algebra Alliance @ OSU
 
 Oct 2022-AlGeCom @ UIUC
+
 Jul 2022-Derived Categories, Moduli, and Hyperkähler Varieties @ Umich
 
