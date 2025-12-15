@@ -12,7 +12,9 @@ I helped create and currently sit on the board of [OSU Cycle](https://math.osu.e
 Here is my [CV](CV.pdf).
 ## Minicourse
 In May 2025, I ran a minicourse on Voevodsky's mixed motives at OSU titled "Motives in May" with [Jake Huryn](https://jakehuryn.github.io/). The website can be found [here](https://jakehuryn.github.io/motives-in-may/).
-## Conferences
+## Where you may have met me 
+Dec 2025 - KOI @ University of Kentucky
+
 Nov 2025-AlGeCom @ OSU
 
 Oct 2025-Enumerative  Geometry, Intersection Theory & Beyond @ OSU
