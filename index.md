@@ -1,5 +1,9 @@
-# William C. Newman
-I am a fifth year PhD student in mathematics at The Ohio State University. My advisor is [Hsian-Hua Tseng](https://people.math.osu.edu/tseng.109/). 
+<p align="center">
+  <img src="https://github.com/williamcnewman/williamcnewman.github.io/blob/main/Will.jpg" />
+</p>
+
+# William C. Newman 
+I am a sixth year PhD student in mathematics at The Ohio State University. My advisor is [Hsian-Hua Tseng](https://people.math.osu.edu/tseng.109/). 
 ## Research Interests
 I work in algebraic geometry. My thesis work deals with intersection theory on moduli spaces. My other work, past and present, is on various topics withing algebraic geometry, most of which deal with aspects of the Chow groups/cohomology of varieties. I am also interested in combinatorics and number theory.
 ## Preprints
