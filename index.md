@@ -1,7 +1,7 @@
 # William C. Newman
 I am a fifth year PhD student in mathematics at The Ohio State University. My advisor is [Hsian-Hua Tseng](https://people.math.osu.edu/tseng.109/). 
 ## Research Interests
-Most of my interests lie in algebraic geometry. My favorite sub-area within algebraic geometry is enumerative geometry, which then leads me to studying intersection theory, moduli spaces, and algebraic stacks. I am also interested in combinatorics and number theory.  
+I work in algebraic geometry. My thesis work deals with intersection theory on moduli spaces. My other work, past and present, is on various topics withing algebraic geometry, most of which deal with aspects of the Chow groups/cohomology of varieties. I am also interested in combinatorics and number theory.
 ## Preprints
 [Tame nodal stacky curves](https://arxiv.org/abs/2509.20629) with Martin Bishop
 
