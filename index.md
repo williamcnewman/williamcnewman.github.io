@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Will.jpg" />
+  <img src="Will.jpg" >
 </p>
 
 # William C. Newman 
