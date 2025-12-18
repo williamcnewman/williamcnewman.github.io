@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/williamcnewman/williamcnewman.github.io/blob/main/Will.jpg" />
+  <img src="Will.jpg" />
 </p>
 
 # William C. Newman 
