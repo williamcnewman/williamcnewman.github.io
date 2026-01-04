@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="Will.jpg" >
-</p>
+<div align="center">
+  <img src="Will.jpg" alt="William C. Newman" width="300">
+</div>
 
 # William C. Newman 
 I am a sixth year PhD student in mathematics at The Ohio State University. My advisor is [Hsian-Hua Tseng](https://people.math.osu.edu/tseng.109/). 
